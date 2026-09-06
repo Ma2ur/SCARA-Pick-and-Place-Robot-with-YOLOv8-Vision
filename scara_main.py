@@ -51,7 +51,7 @@ TOLERANCJA_RUCHU_MM = 3.0
 CZAS_OCZEKIWANIA = 1.0
 
 # ---------------------------------------------------------
-# 3. KINEMATYKA (Twój dostrojony algorytm)
+# 3. KINEMATYKA
 # ---------------------------------------------------------
 def policz_kinematyke(x_mm, y_mm):
     L1 = 64.0 
