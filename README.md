@@ -3,6 +3,7 @@ This project simulates an automated industrial pick-and-place robot. The physica
 
 ## System Hardware & Setup
 ![SCARA Hardware Setup](scara_arm_foto.jpg)
+A Proof of Concept (PoC) built with Lego Technic to allow for fast mechanical iterations.
 
 ## Video Demo
 https://youtube.com/shorts/hCv5c77dUGY?feature=share
