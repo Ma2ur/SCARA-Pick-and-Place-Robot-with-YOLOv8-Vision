@@ -2,7 +2,7 @@
 This project simulates an automated industrial pick-and-place robot. The physical system is a 2-axis SCARA (Selective Compliance Assembly Robot Arm) built with Lego Technic, operating over a conveyor belt.
 
 ## System Hardware & Setup
-![SCARA Hardware Setup](scara_arm_foto.jpg)
+![SCARA Hardware Setup](foto_scara2.jpg)
 A Proof of Concept (PoC) built with Lego Technic to allow for fast mechanical iterations.
 
 ## Video Demo
